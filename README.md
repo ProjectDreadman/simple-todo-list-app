@@ -34,10 +34,3 @@ A simple and intuitive web application for managing tasks. This project helps us
 or
    ```bash
    yarn install
-
-### Installation
- ```bash
-   npm start
-or
-   ```bash
-   yarn start
