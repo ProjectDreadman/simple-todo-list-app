@@ -1,8 +1,3 @@
-
-### Basic Component Structure (React Example)
-
-#### `src/components/Task.js`
-```javascript
 import React from 'react';
 
 const Task = ({ task, toggleComplete, removeTask, editTask }) => {
