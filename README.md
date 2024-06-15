@@ -35,10 +35,9 @@ or
    ```bash
    yarn install
 
-### Running the App
-   ```bash
+### Installation
+ ```bash
    npm start
 or
    ```bash
    yarn start
-
