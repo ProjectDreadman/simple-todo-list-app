@@ -8,7 +8,7 @@ const App = () => {
 
   const addTask = text => {
     const newTask = { id: Date.now(), text, completed: false };
-    setTasks([ ...tasks, newTask ]);
+    setTasks([...tasks, newTask]);
   };
 
   const toggleComplete = id => {
