@@ -23,3 +23,22 @@ A simple and intuitive web application for managing tasks. This project helps us
 1. Clone the repository:
    ```bash
    git clone https://github.com/ProjectDreadman/simple-todo-list-app.git
+   
+2. Navigate to the project directory:
+   ```bash
+   cd simple-todo-list-app
+
+3. Install dependencies:
+   ```bash
+   npm install
+or
+   ```bash
+   yarn install
+
+### Running the App
+   ```bash
+   npm start
+or
+   ```bash
+   yarn start
+
