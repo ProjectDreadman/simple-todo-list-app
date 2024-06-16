@@ -27,10 +27,32 @@ A simple and intuitive web application for managing tasks. This project helps us
 2. Navigate to the project directory:
    ```bash
    cd simple-todo-list-app
-
-3. Install dependencies:
+3. Install dependencies
    ```bash
    npm install
 or
    ```bash
    yarn install
+   ```
+
+### Running the App
+   ```bash
+   npm start
+   ```
+or
+   ```bash
+   yarn start
+   ```
+The app will be available at http://localhost:3000.
+
+### Usage
+1. Add tasks using the input field.
+2. Edit tasks by clicking the edit button.
+3. Delete tasks by clicking the delete button.
+4. Mark tasks as complete/incomplete by clicking the checkbox.
+
+### Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
